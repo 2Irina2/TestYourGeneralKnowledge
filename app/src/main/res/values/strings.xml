@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test your General Knowledge</string>
+    <string name="Question1">"1. For which of the following disciplines is Nobel Prize awarded?"</string>
+    <string name="Question2">"2. For which fruit is the US state of Georgia famous?"</string>
+    <string name="Question3">"3. What is infant whale commonly called? "</string>
+    <string name="Question4">"4. Approximately when did the Big Bang take place?"</string>
+    <string name="Question5">"5. Euclid is associated with which branch of mathematics?"</string>
+    <string name="Question6">"6. Graphite is composed of which element?"</string>
+    <string name="Question7">"7. Historically, what is the name of Japan's warrior class?"</string>
+    <string name="Question8">"8. How long does the light of the Sun take to reach the Earth?"</string>
+    <string name="Question9">"9. How many atoms of hidrogen are there in two molecule of water?"</string>
+    <string name="Question10">"10. What is the most abundant element in the air we breathe?"</string>
+</resources>
